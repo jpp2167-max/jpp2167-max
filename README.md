@@ -1,9 +1,7 @@
 ## Hi there 👋
+I'm John!!
 
-<!--
-**jpp2167-max/jpp2167-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am data analysis enthusiast (Python and SQL manily).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
